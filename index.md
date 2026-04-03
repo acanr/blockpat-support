@@ -18,7 +18,7 @@ Drag blocks from the tray onto the 8×8 grid. Fill complete rows or columns to c
 No. BlockPat! works fully offline.
 
 **Q: How do I continue after Game Over?**
-Watch a short ad to receive a bonus bomb and keep playing. You can use this once per game.
+Tap Continue to receive a bonus bomb and keep playing. You can use this once per game.
 
 **Q: Is the game free?**
 Yes! BlockPat! is completely free to play.
