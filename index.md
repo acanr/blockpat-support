@@ -2,7 +2,7 @@
 
 Need help? Have feedback? We'd love to hear from you.
 
-**Email:** ahmetcanacar@gmail.com
+**Email:** blockpatgame@gmail.com
 
 ---
 
@@ -38,4 +38,4 @@ The app may display advertisements provided by third-party ad networks (Google A
 
 The app stores your high score locally on your device only. No data is transmitted to external servers.
 
-**Contact:** ahmetcanacar@gmail.com
+**Contact:** blockpatgame@gmail.com
